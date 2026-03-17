@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic photograph of a tailor workshop. In the center, a tailor is carefully stitching a suit onto a mannequin with an extremely twisted and unnatural posture, and the suit fits it perfectly. Around the room, several normal upright mannequins stand unfinished with loose fabric hanging. Warm indoor lighting, detailed fabric textures, cinematic composition, depth of field, DSLR photography, highly realistic. No text, no labels, no diagrams, no symbols, no futuristic elements. Negative prompt: text, charts, graphs, equations, glowing effects, digital interface, AI icons",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "Tailor fits suit perfectly to distorted mannequin but fails for normal ones, showing memorization instead of generalization."
+}
